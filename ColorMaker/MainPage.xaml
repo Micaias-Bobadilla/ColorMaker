@@ -54,6 +54,6 @@
                         Clicked="btnRandom_Clicked"/>
             </VerticalStackLayout>
         </Frame>
+        <Label Margin="4" Text="Dev by Micaias ®" FontSize="Micro" FontAttributes="Italic" HorizontalTextAlignment="End" VerticalTextAlignment="End" />
     </Grid>
-    
 </ContentPage>
